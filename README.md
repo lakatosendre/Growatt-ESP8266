@@ -7,4 +7,7 @@ Features:
   - Show values in webpage 
   - Show daily data in trend.
 
-
+Usage:
+ - Set Userrsetting variable
+ - Connect to Inverter
+ - 
